@@ -1,2 +1,3 @@
 # hello-world
-not sure what, yet. 
+
+Does not everyone love to learn new things but what am I learning??
